@@ -35,3 +35,17 @@ main{   display: flex;
     color: orange;
 }
 
+h1 { font-family: serif;  
+
+}
+
+p { line-height: 30px; letter-spacing: 0.1em; text-align: justify;
+}
+
+.container-right { height: 100px; 
+                                     
+
+}
+ul li {  
+
+}
